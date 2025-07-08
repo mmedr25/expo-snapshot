@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["SnapshotModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.snapshot.SnapshotModule"]
+  }
+}
